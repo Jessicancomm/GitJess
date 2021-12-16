@@ -10,3 +10,15 @@
 
 * [Introduction](ux-ui-experience-and-samples/introduction.md)
 * [Keyboards](ux-ui-experience-and-samples/keyboards.md)
+
+## CPTC Certification
+
+* [Certified Study Buddies](cptc-certification/certified-study-buddies.md)
+
+## Business Book Reviews
+
+* [Friend of a Friend](business-book-reviews/friend-of-a-friend.md)
+
+***
+
+* [Technical Communication Today](technical-communication-today.md)
