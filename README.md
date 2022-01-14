@@ -7,5 +7,5 @@ description: >-
 
 # Welcome to GitJess!
 
-This is the welcome page for a portfolio of writing samples designed to cover the breadth and depth of my experience in technical and marketing communication. All topics and groups in the navigation column on the left are in progress.&#x20;
+Welcome to my portfolio of my work in UX, technical, and marketing communication. As with life itself, every page on this site is a work in progress. I am constantly writing, creating, adding, and editing the content here. Enjoy!
 
