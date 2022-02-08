@@ -9,7 +9,7 @@
 ## UX/UI Experience and Samples
 
 * [Introduction](ux-ui-experience-and-samples/introduction.md)
-* [Keyboards](ux-ui-experience-and-samples/keyboards.md)
+* [Keyboards and UX](ux-ui-experience-and-samples/keyboards-and-ux.md)
 
 ## CPTC Certification
 
