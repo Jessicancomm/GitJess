@@ -2,7 +2,7 @@
 description: This section focuses on my UX projects and approach.
 ---
 
-# Introduction
+# UX Experience and Projects
 
 Thank you [Karen Karaus](https://www.linkedin.com/pulse/how-get-ux-writing-field-guide-katherine-karaus/) for this inspiration!
 
