@@ -35,7 +35,7 @@ Eventually, I found all the keyboard drawings for each keyboard type. Most produ
 
 I assembled the keyboards by reverse engineering the PDFs of the keyboard drawings in Adobe Illustrator. I layered each keyboard drawing on top of each other, aligned them, and then arranged the layers until they appeared as they would to a user.&#x20;
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 The challenge here was keeping on top of the changes, which often weren't announced. I just checked the shared drive for the documents I needed on a regular basis and re-assembled when necessary.
 
@@ -43,7 +43,7 @@ The challenge here was keeping on top of the changes, which often weren't announ
 
 As my Adobe Illustrator skills developed, I was able to describe each key with an image.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
 Later in the document - usually in the Appendix - I included the image of the keyboard followed by the keyboard combinations specifically for that keyboard.&#x20;
 
