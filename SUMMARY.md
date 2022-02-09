@@ -12,6 +12,7 @@
 ## CPTC Certification
 
 * [Certified Study Buddies](cptc-certification/certified-study-buddies.md)
+* [CPTC Certification](cptc-certification/cptc-certification.md)
 
 ## Business Book Reviews
 
