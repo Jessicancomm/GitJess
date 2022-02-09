@@ -6,7 +6,7 @@ description: >-
 
 # Procedural Writing Sample
 
-Now, to pick something to document. :-)
+This page is under construction.
 
 ## Heading 1 = Description
 
