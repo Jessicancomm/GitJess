@@ -8,11 +8,7 @@
   * [Frequently Asked Questions Sample](frequently-asked-questions-sample.md)
 * [UX Experience and Projects](ux-experience-and-projects/README.md)
   * [Keyboards and UX](ux-experience-and-projects/keyboards-and-ux.md)
-
-## CPTC Certification
-
-* [Certified Study Buddies](cptc-certification/certified-study-buddies.md)
-* [CPTC Certification](cptc-certification/cptc-certification.md)
+* [CPTC Certification](cptc-certification.md)
 
 ## Business Book Reviews
 
@@ -21,3 +17,4 @@
 ***
 
 * [Technical Communication Today](technical-communication-today.md)
+* [Book Reviews](book-reviews.md)
