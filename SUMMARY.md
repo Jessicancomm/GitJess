@@ -9,12 +9,6 @@
 * [UX Experience and Projects](ux-experience-and-projects/README.md)
   * [Keyboards and UX](ux-experience-and-projects/keyboards-and-ux.md)
 * [CPTC Certification](cptc-certification.md)
-
-## Business Book Reviews
-
-* [Friend of a Friend](business-book-reviews/friend-of-a-friend.md)
-
-***
-
-* [Technical Communication Today](technical-communication-today.md)
-* [Book Reviews](book-reviews.md)
+* [Book Reviews](book-reviews/README.md)
+  * [Friend of a Friend](book-reviews/friend-of-a-friend.md)
+  * [Technical Communication Today](book-reviews/technical-communication-today.md)
