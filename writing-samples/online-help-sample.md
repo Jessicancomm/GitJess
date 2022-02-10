@@ -18,7 +18,15 @@ I have uploaded a zip file of the web output of the help project that helped me 
 
 ### To Download the FlareCert.zip File
 
+1. Scroll down to the bottom of this page.
+2. Click once on the FlareCert.zip file.
+   * In Google Chrome, the zip file automatically downloads to your Downloads folder (or the folder you have designated as the default folder for downloads in your Google Chrome Settings).
+
 Scroll down to the bottom of this page.
+
+Click once on the FlareCert.zip file.
+
+
 
 ### To Extract the Files
 
