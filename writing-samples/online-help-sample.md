@@ -21,7 +21,7 @@ I have uploaded a zip file of the web output of the help project that helped me 
 1. Scroll down to the bottom of this page.
 2. Left-click once on the FlareCert.zip file.
    * In Google Chrome, the zip file automatically downloads to your Downloads folder (or the Downloads Folder selected in your [Google Chrome Settings](chrome://settings/downloads)).
-   * In Mozilla Firefox, you are prompted to save or download the file. Choose download and selected a location on your hard drive.
+   * In Mozilla Firefox, you are prompted to save or download the file. Choose download and select a location on your hard drive.
    * In Microsoft Edge, the zip file automatically downloads to your Downloads folder (or the location selected in your [Downloads](edge://settings/downloads) setting for Microsoft Edge.
 
 ### To Extract the Files
