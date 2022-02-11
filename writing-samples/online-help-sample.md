@@ -10,7 +10,7 @@ In 2019, I achieved a certification as a MadCap Advanced Developer for MadCap Fl
 
 I created a single-source project with two outputs: web and PDF. Then, I uploaded the project to the reviewer for MadCap Flare's certification. My project passed the review and I was certified.
 
-![](../.gitbook/assets/certifiedMAD.PNG)
+![The official logo for MadCap Flare certification.](../.gitbook/assets/certifiedMAD.PNG)
 
 ## Accessing the Online Help Sample
 
