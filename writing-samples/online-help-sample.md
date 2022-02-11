@@ -1,7 +1,7 @@
 ---
 description: >-
   This page features a downloadable sample of the online help project I created
-  as part of my achieving my Flare certification.
+  as part of my achieving my MadCap Flare certification.
 ---
 
 # Online Help Sample
@@ -26,11 +26,20 @@ I have uploaded a zip file of the web output of the help project that helped me 
 
 ### To Extract the Files
 
-
+1. Navigate to the folder where you downloaded the FlareCert.zip file.
+2. Right-click on the FlareCert.zip file and select the Extract or Extract All option in the tool you use to extract zip files.
+3. Choose the location for the extracted files.&#x20;
+4. After extraction, a folder named "FlareCert\_Web" appears in the location selected.&#x20;
 
 ### To Open the Home Page
 
+1. Open the FlareCert\_Web folder.
+2. Click the Default.htm or Default\_CSH.htm page.\
+   ![](<../.gitbook/assets/image (2).png>)
+3. The home page of online help file opens.\
+   ![](<../.gitbook/assets/image (1).png>)
 
+And, yes, I did write my sample project about planning for DragonCon in Atlanta. They always say, "Write what you know," and I know all about going to DragonCon.&#x20;
 
 ## Why You Have to Download the Project
 

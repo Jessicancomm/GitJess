@@ -43,7 +43,7 @@ The challenge here was keeping on top of the changes, which often weren't announ
 
 As my Adobe Illustrator skills developed, I was able to describe each key with an image.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 Later in the document - usually in the Appendix - I included the image of the keyboard followed by the keyboard combinations specifically for that keyboard.&#x20;
 
