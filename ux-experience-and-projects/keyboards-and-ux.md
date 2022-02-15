@@ -55,5 +55,5 @@ In fact, the testers and support personnel would print the keyboard pages from t
 
 In addition, I was able to catch errors while assembling the keyboard images and report them to the project manager before the assembled images were sent to anyone else.&#x20;
 
-The only downside is that the keyboard images became so popular that I had to re-assemble the keyboards on a regular basis. Doing so provided so much value to the team and the user that it was worth the effort.&#x20;
+The only downside was that the keyboard images became so popular that I had to re-assemble the images quite often, which was time-consuming and labor-instensive. However, those images provided so much value to the team and the user that it was worth the effort.&#x20;
 
