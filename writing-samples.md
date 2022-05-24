@@ -6,4 +6,4 @@ description: >-
 
 # Writing Samples
 
-All pages in this section are under constructions. I am in the process of picking topics and documenting them.&#x20;
+All pages in this section are in process and therefore constantly changing.&#x20;
