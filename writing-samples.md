@@ -6,4 +6,4 @@ description: >-
 
 # Writing Samples
 
-All pages in this section are in process and therefore constantly changing.&#x20;
+I am always working on writing samples and editing the samples on this page and therefore constantly changing. Enjoy!
