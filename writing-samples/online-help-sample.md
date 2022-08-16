@@ -38,7 +38,7 @@ I have uploaded a zip file of the web output of the help project that helped me 
    ![](<../.gitbook/assets/image (2).png>)
 3. The home page of online help file opens.\
    ![](<../.gitbook/assets/image (1).png>)
-4. Enjoy! I wrote my sample project about planning for [DragonCon ](https://www.dragoncon.org)in Atlanta, which is always entertaining.&#x20;
+4. Enjoy! I wrote my sample project about planning for [DragonCon ](https://www.dragoncon.org/)in Atlanta, which is always entertaining.&#x20;
 
 ## Why You Have to Download the Project
 
