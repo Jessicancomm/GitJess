@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Welcome to GitJess!](README.md)
-* [About Me](about-me.md)
+* [Let's Go GitJess!](README.md)
+* [About Me and AI](about-me-and-ai.md)
 * [Writing Samples](writing-samples.md)
   * [Online Help Sample](writing-samples/online-help-sample.md)
   * [Procedural Writing Sample](procedure.md)
