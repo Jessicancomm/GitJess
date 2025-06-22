@@ -1,12 +1,12 @@
 ---
 description: >-
-  This page would demonstrate my ability to write procedures to instruct users
-  how to do something in the software or with the hardware I am documenting.
+  This page demonstrates my ability to write procedures that instruct users on
+  how to perform a task.
 ---
 
-# Procedural Writing Sample
+# Procedural Writing Sample - Coming Soon!
 
-This page is under construction.
+I am still searching for the perfect sample. Watch this space?
 
 ## Heading 1 = Description
 

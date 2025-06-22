@@ -4,7 +4,7 @@
 * [About Me and AI](about-me-and-ai.md)
 * [Writing Samples](writing-samples.md)
   * [Online Help Sample](writing-samples/online-help-sample.md)
-  * [Procedural Writing Sample](procedure.md)
+  * [Procedural Writing Sample - Coming Soon!](procedure.md)
   * [Conceptual Writing Sample](conceptual-writing-sample.md)
   * [Frequently Asked Questions Sample](frequently-asked-questions-sample.md)
 * [UX and Microcopy](ux-and-microcopy/README.md)

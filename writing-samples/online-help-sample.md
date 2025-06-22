@@ -1,7 +1,7 @@
 ---
 description: >-
   This page features a downloadable sample of the online help project I created
-  as part of my achieving my MadCap Flare certification.
+  as part of my achieving my MadCap Flare certification in 2019.
 ---
 
 # Online Help Sample
