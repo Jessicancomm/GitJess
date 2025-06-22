@@ -6,7 +6,7 @@ description: >-
 
 # Procedural Writing Sample - Coming Soon!
 
-I am still searching for the perfect sample. Watch this space?
+I am still searching for the perfect sample. Watch this space!
 
 ## Heading 1 = Description
 

@@ -1,8 +1,9 @@
 ---
-description: Subject for the questions is pending.
+description: I am still looking for the perfect sample
+hidden: true
 ---
 
-# Frequently Asked Questions Sample
+# Frequently Asked Questions
 
 ## What should I write an FAQ about?
 
