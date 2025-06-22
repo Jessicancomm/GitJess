@@ -2,6 +2,7 @@
 description: >-
   In this section, I provide some book reviews of material I am reading in the
   field.
+hidden: true
 ---
 
 # Book Reviews
