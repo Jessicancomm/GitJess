@@ -1,14 +1,15 @@
 ---
 description: >-
   This page features a downloadable sample of the online help project I created
-  as part of my achieving my MadCap Flare certification in 2019.
+  as part of achieving the MadCap Advanced Developer certification in MadCap
+  Flare in 2019.
 ---
 
 # Online Help Sample
 
-In 2019, I achieved a certification as a MadCap Advanced Developer for MadCap Flare. The certification required submitting a Flare project. The details are described in Step 4 here: [https://www.madcapsoftware.com/services/certification/how-to-get-mad-certified.aspx](https://www.madcapsoftware.com/services/certification/how-to-get-mad-certified.aspx)
+For more information about the requirements to achieve certification, please click the following link:  [https://www.madcapsoftware.com/services/certification/how-to-get-mad-certified.aspx](https://www.madcapsoftware.com/services/certification/how-to-get-mad-certified.aspx).
 
-I created a single-source project with two outputs: web and PDF. Then, I uploaded the project to the reviewer for MadCap Flare's certification. My project passed the review and I was certified.
+I created a single-source project with two outputs: web and PDF. Then, I uploaded the project to the reviewer for certification in MadCap Flare.&#x20;
 
 <div align="center"><img src="../.gitbook/assets/certifiedMAD.PNG" alt="The official logo for MadCap Flare certification."></div>
 
@@ -36,18 +37,18 @@ I have uploaded a zip file of the web output of the help project that helped me 
 1. Open the FlareCert\_Web folder.
 2. Click the Default.htm or Default\_CSH.htm page.\
    ![](<../.gitbook/assets/image (2).png>)
-3. The home page of online help file opens.\
+3. The home page of the online help file opens.\
    ![](<../.gitbook/assets/image (1).png>)
-4. Enjoy! I wrote my sample project about planning for [DragonCon ](https://www.dragoncon.org/)in Atlanta, which is always entertaining.&#x20;
+4. Enjoy! I wrote a sample project about planning for DragonCon in Atlanta, which is always an entertaining event.&#x20;
 
-## Why You Have to Download the Project
+## Why Do I Have to Download the Project?
 
-My original intention was to test GitBook's import capabilities by importing the help project into GitBook. However, GitBook does not allow you to import help projects. You can import individual HTML pages but not entire help projects.&#x20;
+My original intention was to import the help project into GitBook. However, GitBook does not allow you to import help projects. You can import individual HTML pages but not entire help projects.&#x20;
 
-This was a bit of a blow because I started this portfolio project as a way to test GitBook as an alternative to Flare. The lack of ability to import help projects would make it very difficult to convert help projects with over a thousand pages to GitBook.&#x20;
+This was a bit of a blow because I started this portfolio project as a way to test GitBook as an alternative to Flare. The inability to import help projects would make it very difficult to convert large help projects.
 
 {% hint style="info" %}
-Not to let a setback stop me, I corresponded with GitBook Support about importing help projects. Help projects can be imported into GitBook; however, their Support team would have to do it as a special project. They are eager to help, which makes conversion to GitBook more doable than I first thought.
+Not to let a setback stop me, I corresponded with GitBook Support about importing help projects. Help projects can be imported into GitBook; however, their Support team would have to do it as a special project. They are eager to help, which makes the conversion to GitBook more manageable than I initially thought.
 {% endhint %}
 
 
