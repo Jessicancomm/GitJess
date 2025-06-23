@@ -11,14 +11,14 @@ As the Vice-President of the Florida chapter of the Society for Technical Commun
 
 ## Certified Study Buddies
 
-While mentoring a student for the Florida Society for Technical Communication, the CPTC was starting to gain momentum. I advised her to get certified sooner rather than later because&#x20;
+While mentoring a student for the Florida Society for Technical Communication, the CPTC was starting to gain momentum. I advised my mentee to get certified sooner rather than later because&#x20;
 
-1. She was still accustomed to the study habits needed to take classes and earn high marks, and&#x20;
-2. She would soon be doing more advanced work in the field, which would leave her with little time and even less energy to study. &#x20;
+1. She was still accustomed to the study habits required, and&#x20;
+2. She would soon be doing more advanced work in the field, which would leave her with little time and even less energy to devote to studying. &#x20;
 
-Her response was to form a study group to read and process the material for the CPTC Foundation exam. And that's exactly what we did. We named the group the "Certified Study Buddies" or "CSB" for short.&#x20;
+Her response was that we should form a study group to read and process the material for the CPTC Foundation exam. And that's exactly what we did!&#x20;
 
-As the CSB, we
+We named the group the "Certified Study Buddies" or "CSB" for short. As the CSB, we
 
 * Created a website to attract study buddies and show our work: [https://certifiedstudybuddies.github.io/CSB/home](https://certifiedstudybuddies.github.io/CSB/home)
 * Studied the material.
