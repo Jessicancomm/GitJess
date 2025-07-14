@@ -1,7 +1,6 @@
 ---
 description: >-
-  Where Jessica gets git...and makes an online portfolio while testing out the
-  viability of GitBook for a large documentation suite.
+  The site where Jessica gets git and makes an online portfolio while testing the capabilities of GitBook.
 ---
 
 # Let's Go GitJess!
