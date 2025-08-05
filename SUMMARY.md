@@ -13,3 +13,7 @@
 * [Book Reviews](book-reviews/README.md)
   * [Friend of a Friend](book-reviews/friend-of-a-friend.md)
   * [Technical Communication Today](book-reviews/technical-communication-today.md)
+
+## Resumes
+
+* [Main Resume](resumes/main-resume.md)
