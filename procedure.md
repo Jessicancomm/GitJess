@@ -2,6 +2,7 @@
 description: >-
   This page demonstrates my ability to write procedures that instruct users on
   how to perform a task.
+hidden: true
 ---
 
 # Procedural Writing Sample - Coming Soon!
