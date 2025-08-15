@@ -2,6 +2,7 @@
 description: >-
   This section provides some writing samples of the most common types of
   technical writing.
+icon: briefcase-blank
 ---
 
 # Writing Samples

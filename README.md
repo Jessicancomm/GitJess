@@ -1,9 +1,15 @@
 ---
 description: >-
-  Where Jessica gets git and makes an online portfolio.
+  Welcome to my portfolio, showcasing my work in user content and technical
+  communication.
 ---
 
-# Let's Go GitJess!
+# Let's Git Jess!
 
-Welcome to my portfolio, showcasing my work in user content and communication. As with life itself, every page on this site is a work in progress. I am constantly writing, creating, adding, and editing the content here. Enjoy!
 
+
+
+
+{% hint style="info" %}
+Every page on this site is a work in progress. I am always adding and editing content as I grow as a professional.
+{% endhint %}

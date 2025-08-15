@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Let's Go GitJess!](README.md)
+* [Let's Git Jess!](README.md)
 * [About Me and AI](about-me-and-ai.md)
 * [Writing Samples](writing-samples.md)
   * [Online Help](writing-samples/online-help.md)
@@ -16,4 +16,4 @@
 
 ## Resumes
 
-* [Main Resume](resumes/main-resume.md)
+* [Chronological](resumes/chronological.md)

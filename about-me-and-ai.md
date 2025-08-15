@@ -3,6 +3,7 @@ description: >-
   I have been in the user content and communication business since we worked on
   desktop computers that could double as foundations for a tiny house, and flip
   phones with texting were revolutionary.
+icon: atom
 ---
 
 # About Me and AI

@@ -10,15 +10,19 @@ Before smartphones with touchscreens, the only way to enter information was via 
 
 Stop for a second and imagine using your smartphone without being able to tap the screen. Not a great experience for anyone.
 
-It was my job to document the keyboards as part of documenting the entire device. After speaking with people in the Quality Assurance and Support departments over time, I realized that the keyboards and their combinations were the most important user content of all.&#x20;
+It was my job to document the keyboards as part of documenting the entire device. After speaking with people in the Quality Assurance and Support departments over time, I realized that the keyboards and their combinations were the most important user content I could produce.&#x20;
 
-### The Challenge
+### The Problem
 
-The greatest challenge was that no one saw the keyboards assembled the way a user would until the first sample devices were manufactured. At this point in the process, making any changes or corrections costed more money and time than anyone wanted to spend. The device was often closer to being released.&#x20;
+The greatest challenge was that no one saw the keyboards assembled the way a user would until the first sample devices were manufactured. By the time we could see a physical sample, corrections and improvements cost more money and time than anyone wanted to spend.&#x20;
 
-To document the keyboard combinations, I would receive a 10- to 12-page document from Engineering that contained all combinations for all three versions of the keyboard in one table. Sometimes, this information was a text file with comma-separated values. Imagine trying to test the keyboard combinations from that.&#x20;
+#### How the Documentation was Done
 
-The expected process was for me to format or reformat the information into a long table. This did not seem like the best way to present such important information, but it was the way it had always been done.&#x20;
+To document the keyboard combinations, I would receive a 20-page document from Engineering with the combinations for all three versions of the keyboard in a long table. Sometimes, this information was just a text file with comma-separated values.
+
+The expected process was for me to just reformat the table in an addendum. I couldn't imagine how anyone could use that effectively.
+
+No one liked this process, but it was the way it had always been done.
 
 ### My Solution
 
