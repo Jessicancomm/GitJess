@@ -20,43 +20,61 @@ The greatest challenge was that no one saw the keyboards assembled the way a use
 
 To document the keyboard combinations, I would receive a 20-page document from Engineering with the combinations for all three versions of the keyboard in a long table. Sometimes, this information was just a text file with comma-separated values.
 
-The expected process was for me to just reformat the table in an addendum. I couldn't imagine how anyone could use that effectively.
-
-No one liked this process, but it was the way it had always been done.
+The expected process was for me to just reformat the table in an addendum. No one liked this process, but it was the way it had always been done.
 
 ### My Solution
 
-I had so much trouble figuring out the keyboard information from those text files that I could barely check my own work! It was clear to me that people needed to see the keyboard as it would be manufactured.&#x20;
+I had so much trouble figuring out the keyboard information from those text files that I could barely check my own work! I couldn't imagine how anyone could use that effectively.&#x20;
 
-Believing that there must be an assembled drawing of the keyboards somewhere, I went hunting and pecking through engineering drawings on the shared drive. The documents in this drive were PDFs with names assigned by the coding system according to ISO 9000 guidelines; in other words, they were not descriptive. Therefore, I had to open each PDF file to see what it contained.&#x20;
+We needed to see the full keyboards before the first production run.&#x20;
 
-Eventually, I found all the keyboard drawings for each keyboard type. As it turned out, there were at least five or six separate drawings for each keyboard that were layered on top of each other when manufactured.&#x20;
+* QA needed an easier and faster way to test.&#x20;
+* Support needed a quick reference to troubleshoot issues.
+* Product needed to be able to make changes and corrections before release.
 
-#### Assembling the Keyboards in Adobe Illustrator
+Corrections and changes after a product release were expensive and unhappy customers even more so.
 
-I converted the PDFs of the keyboard to Adobe Illustrator, layered each keyboard drawing on top of the others, aligned them, and then arranged the layers to create a graphic of a each keyboard, fully assembled.&#x20;
+#### Step 1: Find the Images
 
-![](.gitbook/assets/image.png)
+Believing that there must be an assembled drawing of the keyboards somewhere, I went hunting and pecking through engineering drawings on the shared drive.&#x20;
 
-This had never been done before. Often, QA and Support saw the keyboard for the first time after the first production run.
+The documents in this drive were PDFs with names assigned by the coding system according to ISO 9000 guidelines; in other words, they were not descriptive. Therefore, I had to open each PDF file to see what it contained.&#x20;
 
-The challenge here was staying on top of the changes, which were often not announced. I just checked the shared drive for the documents I needed on a regular basis and reassembled the graphics accordingly.
+To my surprise, there were no images of the customer-facing keyboards. Instead, there were approximately five or six drawings, one for each layer of the keyboard. Each layer was layered on top of the others when manufactured.&#x20;
+
+#### Step 2: Assembling the Keyboards in Adobe Illustrator
+
+I developed the following method of assembling the keyboards:
+
+1. Convert the PDFs of the keyboards to Adobe Illustrator.
+2. Delete the engineering marks and information.
+3. Layer each keyboard drawing on top of each other.
+4. Align and arrange each layer.
+5. Group the layers.
+6. Save the final as a .png file.
+
+Here is an example of a finished graphic:
+
+&#x20;![](.gitbook/assets/image.png)
 
 #### Documenting the Keyboards
 
-As my Adobe Illustrator skills developed, I was able to describe each key with an image, which had never been done before either.&#x20;
+I documented the keyboard combinations as follows:
+
+1. Insert the full keyboard graphic.
+2. Create a table with only the combinations for that keyboard.
+
+As my Adobe Illustrator skills developed, I was able to describe each key with an image and explanation.
 
 <img src=".gitbook/assets/image (1) (1).png" alt="" data-size="original">
 
-Later in the document - usually in the Appendix - I included the image of each keyboard, followed by its keyboard combinations.&#x20;
+### The Response
 
-### The Result
+These images and the way I documented the keyboards as a result were such a success that I was thrilled, and so were the internal teams.
 
-My efforts were very well received internally. Having the keyboards as assembled images enabled the Quality Assurance department to perform a visual test of the keyboard combinations far in advance of the first prototype unit.&#x20;
+The QA and Support departments used to print color images of each keyboard and hang them in their cubicles to help them troubleshoot.
 
-QA and support personnel would print the keyboard pages from the documentation in color and hang them in their cubicles. They would use those images to troubleshoot customer issues when a device with the right keyboard was not available to them.&#x20;
+### The ROI
 
-In addition, I was able to catch errors while assembling the keyboard images and report them to the project manager before the assembled images were sent to anyone else.&#x20;
-
-The only downside was that the keyboard images became so popular that I had to reassemble the images quite often, which was time-consuming and labor-intensive. However, those images provided so much value to the team and the user that it was worth the effort.&#x20;
+I was able to catch design errors and report them to the project manager prior to production, saving the company money.&#x20;
 
