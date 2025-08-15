@@ -3,6 +3,7 @@ description: >-
   Even though the Society for Technical Communication is now defunct, studying
   for the Certified Professional Technical Communicator (CPTC) Foundation
   certification was a fantastic learning experience.
+icon: seal
 ---
 
 # CPTC Certification

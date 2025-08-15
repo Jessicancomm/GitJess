@@ -1,5 +1,6 @@
 ---
 description: This is my main, chronological resume.
+icon: file-user
 ---
 
 # Chronological

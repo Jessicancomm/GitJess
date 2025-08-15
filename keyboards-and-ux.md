@@ -2,6 +2,7 @@
 description: >-
   Back in the early days of mobile computing devices, keyboards were king, but
   you wouldn't know it from the production process.
+icon: mobile-retro
 ---
 
 # Keyboards and UX
