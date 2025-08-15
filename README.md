@@ -6,7 +6,11 @@ description: >-
 
 # Let's Git Jess!
 
+### Contact Me!
 
+I would love to discuss my experience and see how I could help your company succeed.
+
+Please feel free to contact me at jessicancomm@gmail.com anytime.
 
 
 
